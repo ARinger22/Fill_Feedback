@@ -32,7 +32,7 @@ n = 16
 lst = []
 driver = webdriver.Chrome(options=options)
 time.sleep(2)
-driver.get("https://www.iitrpr.ac.in/aims/index.html#/login")
+driver.get("paste the website link")
 driver.maximize_window()
 time.sleep(2)
 ide = driver.find_element(By.XPATH,"//*[@id='login']")
