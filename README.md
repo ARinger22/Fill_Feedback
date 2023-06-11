@@ -1,6 +1,6 @@
 ﻿# Fill_Feedback
  
- <p align="center"> This is the feedback form to fill the feedback during the mid-sem or end-sem </p>
+ <p align="center"> This is the feedback form code to fill the feedback during the mid-sem or end-sem </p>
  <p><li> what you need to do </li> </p>
  <p align="center"> first open your terminal then <br> 
                     1. open the directory on terminal where you chrome driver or chrome application is present <br>
